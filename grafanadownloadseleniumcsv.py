@@ -11,8 +11,8 @@ driver = webdriver.Chrome(options=option)
 actions=ActionChains(driver)
 
 user = "admin"                   #input username
-password = "gHjvtntec19#"        #input password
-server = "ua161ipmp0.visonic.com" #input your server
+password = "%%%%%"        #input password
+server = "%%%%" #input your server
 time_from = "2020-06-23 00:00:00" # time from
 time_to = "2020-06-24 00:00:00"   # time to
 
